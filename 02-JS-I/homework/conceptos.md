@@ -1,0 +1,5 @@
+* Variables: es un lugar donde puedo guardar informacion, y despues la puedo recuerar.
+* Strings: es un tipo de variable formado por un grupo de letras (caracteres) en forma de cadena (una atras de otra).
+* Funciones (argumentos, `return`): son porciones de codigo reutilizable, los cuales pueden necesitar informacion inicial para ejecutarse a lo que llamados argumentos. Tambien cuenta con la declaracion return, que nos permite "sacar" informacion de nuestra funcion al programa principal.
+* Declaraciones `if`: es una sentencia que nos permite realizar una accion en particular siempre que se cumpla una condicion, en este caso es el de ejecutar una porcion de codigo si lo que esta dentro del parentesis da true como resultado.
+* Valores booleanos (`true`, `false`): son un tipo de dato y solo tiene uno de dos valores posibles, cero y uno, y se usan para representar algo falso o verdadero respectivamente.
