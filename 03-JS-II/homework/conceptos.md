@@ -1,0 +1,4 @@
+* `for`: es una declaracion que permite ejecutar una porcion de codigo la cantidad de veces que nosotros lo necesitemos. Esta formado por tres partes, la declaracion de una variable auxilian, luego las condiciones de cuando debe parar y por ultimo el incremente, osea cuanto va a cambiar nuetra variable auxiliar en cada vuelta.
+* `&&`: es el operador logico Y, compara dos expresiones distintas, y lo que haces es devolvernos un valor true cuando ambas se cumplan (sean verdaderas) al mismo tiempo.
+* `||`: es el operador logico O, tambien compara dos condiciones distintas, y lo que haces es devolvernos un valor true cuando como minimo se cumple alguna de las dos condiciones.
+* `!`: se utiliza para negar otros operadores logicos, si se antepone a un igual lo que hace es darnos un valor true siempre y cuando ambos valores sean distintos.
