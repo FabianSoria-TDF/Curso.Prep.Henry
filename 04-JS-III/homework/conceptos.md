@@ -1,0 +1,1 @@
+* Arrays: es un objeto (cosa que permite separa los digerentes componentes de un programa) y nos permite almacenar un conjunto de datos, los cuales deben ser del mismo tipo.
