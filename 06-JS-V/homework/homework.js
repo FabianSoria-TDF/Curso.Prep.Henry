@@ -43,17 +43,17 @@ function agregarStringInvertida() {
 
   String.prototype.reverse = function(){
     
-    var arregloDelString = [];
-    var stringDadoVuelta = "";
+        var arregloDelString = [];
+        var stringDadoVuelta = "";
 
-    for(var i=0;i<this.length;i++){
-      arregloDelString[i]=this.charAt(i);
-    }
-    
-    arregloDelString.reverse();
-    stringDadoVuelta = arregloDelString.join("");
+        for(var i=0;i<this.length;i++){
+          arregloDelString[i]=this.charAt(i);
+        }
+        
+        arregloDelString.reverse();
+        stringDadoVuelta = arregloDelString.join("");
 
-    return stringDadoVuelta;
+        return stringDadoVuelta;
 
   }
 }
